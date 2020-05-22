@@ -14,8 +14,8 @@ Under the supervision of [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-cn.html)
 
 # Education
 
-- [2016.09-2020.06] Bachelor of Computer Science, School of Infomatics, Xiamen University, China
-- [2020.09-2023.06] Master of Computer Science, School of Infomatics, Xiamen University, China
+- **[2016.09-2020.06]** Bachelor of Computer Science, School of Infomatics, Xiamen University, China
+- **[2020.09-2023.06]** Master of Computer Science, School of Infomatics, Xiamen University, China
 
 
 ## Contact
