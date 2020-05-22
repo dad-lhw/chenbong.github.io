@@ -43,4 +43,4 @@ Under the supervision of [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-cn.html)
 **E-mail**:  bhchen [at] stu.xmu.edu.cn or chenbohongcs [at] 163.com 
 
 ---
-<a href="https://info.flagcounter.com/ioa7"><img src="https://s05.flagcounter.com/count/ioa7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/ioa7"><img src="https://s05.flagcounter.com/count/ioa7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>
