@@ -12,7 +12,10 @@ I am currently a fourth-year undergraduate student in the [MAC](http://mac.xmu.e
 
 Under the supervision of [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-cn.html) and [Associate Prof. Liujuan Cao](https://information.xmu.edu.cn/info/1019/3182.htm), my research interests include Computer Vision and Neural Network compression.
 
+# Education
 
+- [2016.09-2020.06] Bachelor of Computer Science, School of Infomatics, Xiamen University, China
+- [2020.09-2023.06] Master of Computer Science, School of Infomatics, Xiamen University, China
 
 
 ## Contact
