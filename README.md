@@ -1,3 +1,3 @@
-## Hong Liu's Homepage
+## Bohong Chen's Homepage
 
-Theme adapted is from https://github.com/bk2dcradle/researcher
+Theme adapted is from https://github.com/ankitsultana/researcher
