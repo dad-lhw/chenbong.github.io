@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="BohongChen.jpg">
+<img class="profile-picture" src="BohongChen_2.jpg">
 
 I am currently a fourth-year undergraduate student in the [MAC](http://mac.xmu.edu.cn/) Lab, School of Informatics, Xiamen University, China.
 
