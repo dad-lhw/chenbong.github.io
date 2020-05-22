@@ -12,27 +12,6 @@ I am currently a fourth-year undergraduate student in the [MAC](http://mac.xmu.e
 
 Under the supervision of [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-cn.html) and [Associate Prof. Liujuan Cao](https://information.xmu.edu.cn/info/1019/3182.htm), my research interests include Computer Vision and Neural Network compression.
 
-## Publications
-
-### Journal:
-
-
-### Conference:
-
-
-### Pre-print:
-
-
-## Working Experiences
-
-
-
-## Activities
-
-
-
-## Awards
-
 
 
 
