@@ -27,7 +27,7 @@ Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [
 
 ## Contact
 
-- **Institution**: School of Information Science and Engineering, Xiamen University, China
+- **Institution**: School of Information, Xiamen University, China
 
 - **E-mail**:  bhchen [at] stu.xmu.edu.cn or chenbohongcs [at] 163.com 
 
